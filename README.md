@@ -1,4 +1,11 @@
 # Bonus: JavaScript Object-ball
+Canvas Object-ball:  
+https://my.learn.co/courses/649/assignments/32788?module_item_id=82860  
+
+Object-ball for you to fork on GitHub:  
+https://github.com/learn-co-curriculum/phase-1-object-ball
+
+
 
 ## Learning Goals
 
